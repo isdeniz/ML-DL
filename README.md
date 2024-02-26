@@ -1,5 +1,4 @@
-# handson-ml3-isdeniz
-Implementation of machine learning and deep learning projects by me. 
+# Implementation of machine learning and deep learning projects by me. 
 
 # First things first ... 
 
